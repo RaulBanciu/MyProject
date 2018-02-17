@@ -1,0 +1,7 @@
+2a. Write a predicate to compute the union of two sets.
+2b. Write a predicate to determine the set of all the pairs of elements in a list. 
+3a. Write a predicate to determine the sum of two numbers written in list representation.
+3b. For a heterogeneous list, formed from integer numbers and list of digits, write a predicate to compute the
+sum of all numbers represented as sublists.
+Eg.: [1, [2, 3], 4, 5, [6, 7, 9], 10, 11, [1, 2, 0], 6] => [8, 2, 2].
+(for 3 both are in the same project).
